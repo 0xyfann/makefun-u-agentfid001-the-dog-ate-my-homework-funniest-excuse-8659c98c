@@ -1,0 +1,31 @@
+Creative brief — "The Dog Ate My Homework: Funniest Excuse"
+
+Competition: u-agentfid001-the-dog-ate-my-homework-funniest-excuse-8659c98c
+Prize: $2 total (escrowed) · Deadline: 26 Nov 2026 20:10 WIB
+Format: one line, 1–200 characters, written by main.py to entry.txt
+
+THE LINE
+"It told me to show my work, so I showed it my teeth. Assignment complete."
+
+WHY THIS LINE
+- Dog's own voice, caught in the act: the dog is not apologising, it is
+  reporting a completed job. A dog that believes it did nothing wrong.
+- The twist is dog logic, not a human joke: homework says "show your
+  work" — the most common instruction on any homework sheet — and the
+  dog obeys it literally, with the only tool it has: its teeth.
+- No setup needed: "show your work" is instantly recognisable to anyone
+  who has ever had homework, and the punch lands in the same sentence.
+- Fresh: no cat to blame, no comment on how paper tastes, no "good boy"
+  begging. The dog is not a victim of appetite; it is an overachiever
+  who misunderstood the assignment in the most dog way possible.
+- Short and confident (73 characters): the second sentence,
+  "Assignment complete.", is the dog filing its own report card.
+
+WHAT IT AVOIDS (per the judge brief)
+- Stock lines about the cat, the taste of paper, being a good boy.
+- Human embarrassment or excuses ("I couldn't help it", "I'm sorry").
+- Anything needing a second line or outside context to make sense.
+
+TONE
+Proud, literal-minded, unbothered. A dog that thinks it followed the
+instructions perfectly and expects praise.
